@@ -1,0 +1,24 @@
+{
+  "name": "fynicard",
+  "version": "1.0.0",
+  "description": "create beautiful card",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fyniCode/fyniCard.git"
+  },
+  "keywords": [
+    "card",
+    "react",
+    "shadow"
+  ],
+  "author": "mae palioudis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fyniCode/fyniCard/issues"
+  },
+  "homepage": "https://github.com/fyniCode/fyniCard#readme"
+}
